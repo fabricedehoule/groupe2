@@ -1077,25 +1077,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\2003317\\.nuget\\packages\\": {},
+    "C:\\Users\\1939786\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2003317\\Source\\Repos\\groupe2\\git groupe 2\\git groupe 2\\git groupe 2.csproj",
+      "projectUniqueName": "C:\\Users\\1939786\\source\\repos\\groupe2\\git groupe 2\\git groupe 2\\git groupe 2.csproj",
       "projectName": "git groupe 2",
-      "projectPath": "C:\\Users\\2003317\\Source\\Repos\\groupe2\\git groupe 2\\git groupe 2\\git groupe 2.csproj",
-      "packagesPath": "C:\\Users\\2003317\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2003317\\Source\\Repos\\groupe2\\git groupe 2\\git groupe 2\\obj\\",
+      "projectPath": "C:\\Users\\1939786\\source\\repos\\groupe2\\git groupe 2\\git groupe 2\\git groupe 2.csproj",
+      "packagesPath": "C:\\Users\\1939786\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\1939786\\source\\repos\\groupe2\\git groupe 2\\git groupe 2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\2003317\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\1939786\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
