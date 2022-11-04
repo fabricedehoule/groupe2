@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\git groupe 2",
+    "\\git groupe 2\\git groupe 2"
   ],
-  "SelectedNode": "\\C:\\Users\\fdehoule\\Source\\Repos\\groupe2",
+  "SelectedNode": "\\git groupe 2\\git groupe 2\\MainWindow.xaml",
   "PreviewInSolutionExplorer": false
 }
