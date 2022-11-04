@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o9XjLKNNbBg82GG4f1O7f9xPubZjkqQkzdMiLn4471R50+STsZP5s7vAm1LEfZas5iIUVB9hPEcZRD/DOx+ngw==",
+  "dgSpecHash": "SBDoRkh1fUo04iX3U2MhyTlrnxblY2J8fwfshLNtNeBZ4Q6sqkFsXEseFZgtUYUgME0vfysnFp75oe4d7J10pA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\1939786\\Source\\Repos\\groupe2\\git groupe 2\\git groupe 2\\git groupe 2.csproj",
+  "projectFilePath": "C:\\Users\\1939786\\source\\repos\\groupe2\\git groupe 2\\git groupe 2\\git groupe 2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1939786\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22000.194\\microsoft.windows.sdk.buildtools.10.0.22000.194.nupkg.sha512",
     "C:\\Users\\1939786\\.nuget\\packages\\microsoft.windowsappsdk\\1.1.3\\microsoft.windowsappsdk.1.1.3.nupkg.sha512",
